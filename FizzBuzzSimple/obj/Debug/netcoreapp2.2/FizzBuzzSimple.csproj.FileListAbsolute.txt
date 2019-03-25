@@ -1,0 +1,11 @@
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzzSimple\bin\Debug\netcoreapp2.2\FizzBuzzSimple.deps.json
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzzSimple\bin\Debug\netcoreapp2.2\FizzBuzzSimple.runtimeconfig.json
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzzSimple\bin\Debug\netcoreapp2.2\FizzBuzzSimple.runtimeconfig.dev.json
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzzSimple\bin\Debug\netcoreapp2.2\FizzBuzzSimple.dll
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzzSimple\bin\Debug\netcoreapp2.2\FizzBuzzSimple.pdb
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzzSimple\obj\Debug\netcoreapp2.2\FizzBuzzSimple.csprojAssemblyReference.cache
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzzSimple\obj\Debug\netcoreapp2.2\FizzBuzzSimple.csproj.CoreCompileInputs.cache
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzzSimple\obj\Debug\netcoreapp2.2\FizzBuzzSimple.AssemblyInfoInputs.cache
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzzSimple\obj\Debug\netcoreapp2.2\FizzBuzzSimple.AssemblyInfo.cs
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzzSimple\obj\Debug\netcoreapp2.2\FizzBuzzSimple.dll
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzzSimple\obj\Debug\netcoreapp2.2\FizzBuzzSimple.pdb
