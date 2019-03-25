@@ -9,3 +9,14 @@ D:\Documents\source\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.Ass
 D:\Documents\source\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.AssemblyInfo.cs
 D:\Documents\source\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.dll
 D:\Documents\source\repos\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.pdb
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.deps.json
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.runtimeconfig.json
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.runtimeconfig.dev.json
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.dll
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.pdb
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.AssemblyInfo.cs
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.dll
+C:\Users\n.misic\source\repos\fizz-buzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.pdb
